@@ -1,0 +1,1 @@
+create table sms(RNO int primary key, NAME varchar (30), MOBILENO int, DIV varchar(10), PHYSICS int, CHEMISTRY int, MATHS int);
